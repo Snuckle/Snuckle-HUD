@@ -2782,16 +2782,25 @@ Scheme
 			}
 		}
 
-	    RobotoRegular18
+	    RobotoRegular20
 		{
 			"1"
 			{
 				"name"		"Roboto Regular"
-				"tall"		"18"
+				"tall"		"20"
 				"antialias" "1"				
 			}
 		}
-    
+		
+         ControllerHintText
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"15"
+				"antialias" "1"
+			}
+		} 
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
