@@ -2770,9 +2770,8 @@ Scheme
 				"antialias" "1"
 				"additive"	"0"
 			}
-		} 
-
-	    RobotoBold50
+		}
+         RobotoBoldLarge
 		{
 			"1"
 			{
@@ -2782,7 +2781,7 @@ Scheme
 			}
 		}
 
-	    RobotoRegular20
+	    RobotoRegularMedium
 		{
 			"1"
 			{
@@ -2791,16 +2790,8 @@ Scheme
 				"antialias" "1"				
 			}
 		}
-		
-         ControllerHintText
-		{
-			"1"
-			{
-				"name"		"TF2 Secondary"
-				"tall"		"15"
-				"antialias" "1"
-			}
-		} 
+    }
+
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5141,11 +5132,12 @@ Scheme
 	    }
         "8"
 	    {
-	        "font" "resource/fonts/Roboto-Regular.ttf"
-	        "name" "Roboto Regular"
-	    }
-        "9"
-	    {
 	        "font" "resource/fonts/Roboto-Light.ttf"
 	        "name" "Roboto Light"
 	    }
+        "9"
+	    {
+	        "font" "resource/fonts/Roboto-Regular.ttf"
+	        "name" "Roboto Regular"
+	    }
+    }

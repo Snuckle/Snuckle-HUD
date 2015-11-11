@@ -6,14 +6,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"c-320"		[$WIN32]
-		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"c70"  [$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
-		"xpos"			"32"	[$X360]
-		"ypos"			"r144"	[$X360]
+		"ypos"			"c62"  [$WIN32]
 		"zpos"			"2"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"230"
+		"tall"			"140"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -53,11 +49,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"16"	[$WIN32]
-		"ypos"			"40"	[$WIN32]
+		"xpos"			"21"	[$WIN32]
+		"ypos"			"45"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"55"	[$WIN32]
-		"tall"			"55"	[$WIN32]
+		"wide"			"45"	[$WIN32]
+		"tall"			"45"	[$WIN32]
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
@@ -67,7 +63,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"65"
+		"xpos"			"69"
 		"xpos_minmode"	"61"
 		"ypos"			"48"	[$WIN32]
 		"zpos"			"5"
@@ -77,9 +73,10 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"RobotoBold50"
-		"fgcolor"		"QualityColorUnique"
-	}								
+		"font"			"RobotoBoldLarge"
+		"fgcolor"		"White"		
+	    "AmmoBG"
+    }								
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"

@@ -1,5 +1,5 @@
 "Resource/UI/HudMedicCharge.res"
-{	
+{				
 	"Background"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -21,8 +21,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"r250"
-		"ypos"			"-5"
+		"xpos"			"r270"
+		"ypos"			"-12"
 		"zpos"			"2"
 		"wide"			"1000"
 		"tall"			"72"
@@ -35,7 +35,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"RobotoBold50"
+		"font"			"RobotoBoldLarge"
+		"fgcolor"       "white"
 	}
 
 	"IndividualChargesLabel"
@@ -68,7 +69,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"0"
-		"ypos"			"120"
+		"ypos"			"123"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"8"				
@@ -78,6 +79,8 @@
 		"enabled"		"1" 
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"bgcolor_override"       "0 0 0 255"
+		"fgcolor_override"       "White"
 	}		
 
 	"ChargeMeter1"
