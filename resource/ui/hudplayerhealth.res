@@ -9,7 +9,7 @@
 		"ypos"			"c62"  [$WIN32]
 		"zpos"			"2"
 		"wide"			"230"
-		"tall"			"140"
+		"tall"			"170"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -20,9 +20,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"18"
+		"xpos"			"30"
 		"xpos_minmode"	"60"
-		"ypos"			"42"
+		"ypos"			"70"
 		"zpos"			"4"
 		"wide"			"51"
 		"tall"			"51"
@@ -34,9 +34,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"16"
+		"xpos"			"28"
 		"xpos_minmode"	"58"
-		"ypos"			"40"
+		"ypos"			"68"
 		"zpos"			"3"
 		"wide"			"55"
 		"tall"			"55"
@@ -49,8 +49,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"21"	[$WIN32]
-		"ypos"			"45"	[$WIN32]
+		"xpos"			"34"	[$WIN32]
+		"ypos"			"73"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"45"	[$WIN32]
 		"tall"			"45"	[$WIN32]
@@ -63,9 +63,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"69"
-		"xpos_minmode"	"61"
-		"ypos"			"48"	[$WIN32]
+		"xpos"			"88"
+		"ypos"			"76"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"40"
@@ -75,8 +74,7 @@
 		"textAlignment"	"center"	
 		"font"			"RobotoBoldLarge"
 		"fgcolor"		"White"		
-	    "AmmoBG"
-    }								
+    }		
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"

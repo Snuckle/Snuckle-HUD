@@ -2790,6 +2790,42 @@ Scheme
 				"antialias" "1"				
 			}
 		}
+		RobotoLightSmallest
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"11"
+				"antialias" "1"				
+			}
+		}
+		RobotoRegular26
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"26"
+				"antialias" "1"				
+			}
+		}
+		  RobotoBoldMedium
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"40"
+				"antialias" "1"				
+			}
+		}
+		RobotoRegular24
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"24"
+				"antialias" "1"				
+			}
+		}
     }
 
 	//
