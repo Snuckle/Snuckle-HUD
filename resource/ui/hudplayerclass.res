@@ -96,10 +96,10 @@
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
-		"wide"			"109"
-		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"
 		"image"				"../hud/character_red_bg_clipped"	
 		"teambg_2"			"../hud/character_red_bg_clipped"
@@ -113,15 +113,11 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"xpos"			"r180"	[$WIN32]
+		"ypos"			"r147"	[$WIN32]
 		"zpos"			"2"		
-		"wide"			"100"
-		"wide_minmode"	"52"
-		"tall"			"200"
-		"tall_minmode"	"102"
+		"wide"			"70"
+		"tall"			"150"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -213,7 +209,7 @@
 				"fov"			"25"
 				"angles_x"		"-17"
 				"angles_x_minmode"	"-10"
-				"angles_y"		"145"
+				"angles_y"		"170"
 				"angles_z"		"0"
 				"origin_x"		"105"
 				"origin_y"		"4"
@@ -250,7 +246,7 @@
 				"fov"			"25"
 				"angles_x"		"-13"
 				"angles_x_minmode"	"-3"
-				"angles_y"		"200"
+				"angles_y"		"170"
 				"angles_z"		"0"
 				"origin_x"		"138"
 				"origin_y"		"-4"
@@ -262,7 +258,7 @@
 				"fov"			"20"
 				"angles_x"		"-5"
 				"angles_x_minmode"	"3"
-				"angles_y"		"178"
+				"angles_y"		"165"
 				"angles_z"		"0"
 				"origin_x"		"150"
 				"origin_y"		"-5"
@@ -274,7 +270,7 @@
 				"fov"			"20"
 				"angles_x"		"-5"
 				"angles_x_minmode"	"0"
-				"angles_y"		"200"
+				"angles_y"		"170"
 				"angles_y_minmode"	"210"
 				"angles_z"		"0"
 				"origin_x"		"200"

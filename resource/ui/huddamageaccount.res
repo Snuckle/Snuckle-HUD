@@ -16,8 +16,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-233"
-		"ypos"			"c90" [!$OSX]
+		"xpos"			"c-236"
+		"ypos"			"c80" [!$OSX]
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"50" [!$OSX]

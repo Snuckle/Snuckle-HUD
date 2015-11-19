@@ -37,7 +37,7 @@
 		"brighttext"	"0"
 		"font"			"RobotoBoldLarge"
 		"fgcolor"       "25 209 255 255"
-	}
+	}	
 
 	"IndividualChargesLabel"
 	{
@@ -60,7 +60,7 @@
 		"font"			"RobotoBoldLarge"
 		"fgcolor"       "25 209 255 255"
 	}
-	
+
 	"ChargeMeter"
 	{	
 		"ControlName"	"ContinuousProgressBar"
