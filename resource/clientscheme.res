@@ -2826,6 +2826,15 @@ Scheme
 				"antialias" "1"				
 			}
 		}
+		RobotoRegular34
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"34"
+				"antialias" "1"				
+			}
+		}
     }
 
 	//

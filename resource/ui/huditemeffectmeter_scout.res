@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Cleaver.res"
+"Resource/UI/HudItemEffectMeter_Scout.res"
 {
 	HudItemEffectMeter
 	{
@@ -6,9 +6,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"40"
-		"xpos"			"r506"
-		"ypos"			"r96"
-		"wide"			"300"
+		"xpos"			"r506"	[$WIN32]
+		"ypos"			"r96"	[$WIN32]
+		"x_offset_minmode"		"0"	[$WIN32]
+		"wide"			"200"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Black"
@@ -21,24 +22,22 @@
 		"xpos"			"12"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
 		"visible_minmode"	"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
-		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"			
 	}
 	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"98"
+		"xpos"					"99"
 		"ypos"					"12"
 		"zpos"					"2"
 		"wide"					"41"
@@ -52,7 +51,7 @@
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#TF_Cleaver"
+		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -64,7 +63,7 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"44"
+		"xpos"					"45"
 		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"150"
@@ -75,7 +74,7 @@
 		"enabled"				"1"
 		"textAlignment"			"Left"
 		"dulltext"				"0"
-		"brighttext"		"0"
+		"brighttext"			"0"
 		"bgcolor_override"      "Black"
 	}					
 }
