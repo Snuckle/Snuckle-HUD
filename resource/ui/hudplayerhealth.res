@@ -90,7 +90,10 @@
 		"textAlignment"	"center"	
 		"font"			"RobotoBoldLarge"
 		"fgcolor"		"Black"	
+<<<<<<< HEAD
 	}
+=======
+>>>>>>> origin/master
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"

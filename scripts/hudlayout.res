@@ -96,6 +96,7 @@
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
 		"xpos"			"r511"	[$WIN32]
 		"ypos"			"r73"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
@@ -103,6 +104,20 @@
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Black"
+=======
+		"xpos"			"r80"	[$WIN32]
+		"xpos_minmode"	"r52"	[$WIN32]
+		"ypos"			"r21"	[$WIN32]
+		"ypos_minmode"	"r40"	[$WIN32]
+		"xpos"			"r112"	[$X360]
+		"ypos"			"r45"	[$X360]
+		"zpos"			"1"			// draw in front of ammo
+		"wide"			"60"
+		"wide_minmode"	"50"
+		"tall"			"8"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
+>>>>>>> origin/master
 	}
 
 	HudFlameRocketCharge
@@ -180,8 +195,16 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
+<<<<<<< HEAD
 		"xpos"					"r474"	[$WIN32]
 		"ypos"					"r210"	[$WIN32]
+=======
+		"xpos"					"r162"	[$WIN32]
+		"ypos"					"r152"	[$WIN32]
+		"ypos_minmode"			"r134"	[$WIN32]
+		"xpos"					"r194"	[$X360]
+		"ypos"					"r174"	[$X360]
+>>>>>>> origin/master
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"

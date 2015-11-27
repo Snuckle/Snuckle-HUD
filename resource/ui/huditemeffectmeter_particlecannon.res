@@ -37,10 +37,17 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
+<<<<<<< HEAD
 		"xpos"					"94"
 		"ypos"					"12"
 		"zpos"					"1"
 		"wide"					"49"
+=======
+		"xpos"					"98"
+		"ypos"					"12"
+		"zpos"					"1"
+		"wide"					"41"
+>>>>>>> origin/master
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"

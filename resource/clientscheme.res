@@ -2835,6 +2835,7 @@ Scheme
 				"antialias" "1"				
 			}
 		}
+<<<<<<< HEAD
 		RobotoLightSmallestier
 		{
 			"1"
@@ -2844,6 +2845,8 @@ Scheme
 				"antialias" "1"				
 			}
 		}
+=======
+>>>>>>> origin/master
     }
 
 	//
